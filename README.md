@@ -7,6 +7,12 @@ Choose what stays awake, choose a duration, and get back to your task.
 
 ## Download and install
 
+**[Download SeZzz for macOS — Free Beta](https://github.com/kdervis/SeZzz/releases/download/v0.1.0-beta.3/SeZzz-0.1.0-build3-macOS.zip)**
+
+macOS 13+ · Apple Silicon & Intel · Version 0.1.0 (3)
+
+[Release notes](https://github.com/kdervis/SeZzz/releases/tag/v0.1.0-beta.3)
+
 Open this repository's **Releases** section and select **SeZzz 0.1.0 Beta 3**.
 Under **Assets**, download **SeZzz-0.1.0-build3-macOS.zip** — not GitHub's
 automatically generated “Source code” archives.
